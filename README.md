@@ -4,7 +4,7 @@
 After TREE was deployed, we quickly found that the short interval between rebalances harmed TREE holders and distributed more profits to arb bots than to charity. We had to "trick" our reserve to send the $176k worth of DAI to an intermediary wallet, which was done through creating a new reserve and four manipulator contracts so that when rebasing was turned back on, the rebase would send the entire reserve to the new reserve.  From there we dontated a portion of DAI to charity and returned the rest to investors.
 
 ### Resources
-* [Announcement](https://medium.com/tree-finance/a-new-forest-and-a-treet-for-loyalty-bf728bceb176)
+* [Announcement](https://medium.com/tree-finance/tree-2-0-62afc7225ffb)
 * Contracts
     * [PausedReserve](https://etherscan.io/address/0x4Cd09fF2ceE7d82393B49e2dF0faC371Ab836Ac4)
     * [UniswapRouterManipulator](https://etherscan.io/address/0x9c551476d3852fEa0B37aEF5dF1bcAa80F06Ce94)
