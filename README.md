@@ -1,7 +1,7 @@
 # TREE v1.1
 
 ### Summary
-After TREE was deployed, we quickly found that the short interval between rebalances harmed TREE holders and distributed more profits to arb bots than to charity. We had to "trick" our reserve to send the $176k worth of DAI to an intermediary wallet, which was done through creating a new reserve and four manipulator contracts so that when rebasing was turned back on, the rebase would send the entire reserve to the new reserve.  From there we dontated a portion of DAI to charity and returned the rest to investors.
+After TREE was deployed, we quickly found that the short interval between rebalances harmed TREE holders and distributed more profits to arb bots than to charity. We had to "trick" our reserve to send the $176k worth of DAI to an intermediary wallet, which was done through creating a new reserve and four manipulator contracts so that when rebasing was turned back on, the rebase would send the entire reserve to the new reserve.  From there we donated a portion of DAI to charity and returned the rest to investors.
 
 ### Resources
 * [Announcement](https://medium.com/tree-finance/tree-2-0-62afc7225ffb)
